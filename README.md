@@ -1,2 +1,9 @@
 # Hello-World
-The first repository
+//The first repository
+#include<iostream>
+using namespace std
+
+int main(){
+    cout<<"Hello-World"<<endl;
+    return 0;
+}
